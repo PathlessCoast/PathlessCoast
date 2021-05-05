@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PathlessCoast
-- 👀 I’m interested in illustration, drawing in general, graphic design and web designing now
+- 👀 I’m interested in front web designing, graphic design and illustration
 - 🌱 I’m currently learning HTML, CSS and Java Script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
